@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: SpeedOfIthgar
+## Author: Neekio
+## Version: 1.0.0
+## Notes: Made for Ithgar
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+SpeedOfIthgar.lua
